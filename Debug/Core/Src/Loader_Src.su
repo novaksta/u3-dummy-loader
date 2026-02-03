@@ -1,0 +1,11 @@
+../Core/Src/Loader_Src.c:29:37:HAL_InitTick	16	static
+../Core/Src/Loader_Src.c:34:10:HAL_GetTick	4	static
+../Core/Src/Loader_Src.c:49:5:main	8	static
+../Core/Src/Loader_Src.c:51:5:Init	8	static
+../Core/Src/Loader_Src.c:77:23:Write	24	static
+../Core/Src/Loader_Src.c:97:23:MassErase	16	static
+../Core/Src/Loader_Src.c:108:23:SectorErase	16	static
+../Core/Src/Loader_Src.c:125:10:CheckSum	40	static
+../Core/Src/Loader_Src.c:208:28:Verify	40	static,ignoring_inline_asm
+../Core/Src/Loader_Src.c:229:5:SystemClock_Config	88	static
+../Core/Src/Loader_Src.c:278:23:Read	24	static

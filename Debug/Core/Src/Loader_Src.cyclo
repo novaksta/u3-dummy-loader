@@ -1,0 +1,11 @@
+../Core/Src/Loader_Src.c:29:37:HAL_InitTick	1
+../Core/Src/Loader_Src.c:34:10:HAL_GetTick	1
+../Core/Src/Loader_Src.c:49:5:main	1
+../Core/Src/Loader_Src.c:51:5:Init	1
+../Core/Src/Loader_Src.c:77:23:Write	1
+../Core/Src/Loader_Src.c:97:23:MassErase	1
+../Core/Src/Loader_Src.c:108:23:SectorErase	1
+../Core/Src/Loader_Src.c:125:10:CheckSum	14
+../Core/Src/Loader_Src.c:208:28:Verify	2
+../Core/Src/Loader_Src.c:229:5:SystemClock_Config	5
+../Core/Src/Loader_Src.c:278:23:Read	1
